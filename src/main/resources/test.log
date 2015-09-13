@@ -1,0 +1,15 @@
+[WARN] 2015-08-09 16:19:43,140 org.apache.hadoop.util.NativeCodeLoader <clinit> - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN] 2015-08-09 16:19:43,142 org.apache.hadoop.io.compress.snappy.LoadSnappy <clinit> - Snappy native library not loaded
+[WARN] 2015-08-09 16:20:58,879 org.apache.hadoop.util.NativeCodeLoader <clinit> - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN] 2015-08-09 16:20:58,881 org.apache.hadoop.io.compress.snappy.LoadSnappy <clinit> - Snappy native library not loaded
+[INFO] 2015-08-09 16:32:01,734 akka.event.slf4j.Slf4jLogger applyOrElse - Slf4jLogger started
+[INFO] 2015-08-09 16:32:01,767 Remoting apply$mcV$sp - Starting remoting
+[INFO] 2015-08-09 16:32:01,880 Remoting apply$mcV$sp - Remoting started; listening on addresses :[akka.tcp://sparkDriver@192.168.2.26:52011]
+[INFO] 2015-08-09 16:32:01,881 Remoting apply$mcV$sp - Remoting now listens on addresses: [akka.tcp://sparkDriver@192.168.2.26:52011]
+[INFO] 2015-08-09 16:32:02,035 org.eclipse.jetty.server.Server doStart - jetty-8.1.14.v20131031
+[INFO] 2015-08-09 16:32:02,046 org.eclipse.jetty.server.AbstractConnector doStart - Started SocketConnector@0.0.0.0:52013
+[INFO] 2015-08-09 16:32:02,210 org.eclipse.jetty.server.Server doStart - jetty-8.1.14.v20131031
+[INFO] 2015-08-09 16:32:02,217 org.eclipse.jetty.server.AbstractConnector doStart - Started SelectChannelConnector@0.0.0.0:4040
+[WARN] 2015-08-09 16:32:02,565 org.apache.hadoop.util.NativeCodeLoader <clinit> - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[WARN] 2015-08-09 16:32:02,565 org.apache.hadoop.io.compress.snappy.LoadSnappy <clinit> - Snappy native library not loaded
+[INFO] 2015-08-09 16:32:02,571 org.apache.hadoop.mapred.FileInputFormat listStatus - Total input paths to process : 1
